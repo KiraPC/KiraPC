@@ -4,6 +4,7 @@
 
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=AC4142)](https://developer.mozilla.org/it/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=AC4142)](https://developer.mozilla.org/it/docs/Web/Python)
+[![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=AC4142)](https://developer.mozilla.org/it/docs/Web/Java)
 [![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=AC4142)](https://code.visualstudio.com/)
 
 </div>

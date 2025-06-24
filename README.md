@@ -10,7 +10,8 @@
 </div>
 
 Software Engineer with a lifelong passion for technology.
-I enjoy designing and developing solutions by applying proven patterns and best practices—always searching for the better way, because there’s almost always room for improvement.
+
+I enjoy designing and developing solutions by applying proven patterns and best practices, always searching for the better way, because there’s almost always room for improvement.
 
 ```js
 while(true) {

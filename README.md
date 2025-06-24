@@ -9,11 +9,8 @@
 
 </div>
 
-Software Engineer with a strong passion for the technology since I was a child.
-
-I like design and develop solutions using common patterns and best practices, finding the better way.
-
-There's almost always a better way.
+Software Engineer with a lifelong passion for technology.
+I enjoy designing and developing solutions by applying proven patterns and best practices—always searching for the better way, because there’s almost always room for improvement.
 
 ```js
 while(true) {
